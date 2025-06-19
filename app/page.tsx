@@ -1,12 +1,7 @@
-import { Button } from '@/components/ui/button'
-
 const Page = () => {
   return (
-    <div>
-      <h1 className='text-2xl underline'>My name is chanaka</h1>
-      <Button>Let's get started!</Button>
-    </div>
+    <div></div>
   )
-}
+};
 
-export default Page
+export default Page;
